@@ -1,6 +1,6 @@
 ---
 title: Access'cité
-mission: "Améliorer le nombre d'ERP accessible "
+mission: Améliorer le nombre d'ERP accessibles
 sponsors:
   - /organisations/dgaln
 incubator: mtes
@@ -14,8 +14,6 @@ phases:
     start: 2022-04-01
     end: 2022-06-24
 ---
-
-
 ## Contexte
 
 Il existe un contexte réglementaire aujourd'hui obligeant les établissements recevant du public à se rendre accessible pour les personnes à mobilité réduite. 
@@ -26,7 +24,7 @@ Il existe un contexte réglementaire aujourd'hui obligeant les établissements r
 
 31/03/2019 : Fin de dépôt des dossiers d’ADAP \
 \
-Depuis 2020 : Refonte du code de la construction et de l’habitation (rapatriement potentiel des articles du code du travail concernant les BUP
+Depuis 2020 : Refonte du code de la construction et de l’habitation (rapatriement potentiel des articles du code du travail concernant les BUP.
 
 ## Problème
 
