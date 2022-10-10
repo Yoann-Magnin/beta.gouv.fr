@@ -46,4 +46,4 @@ L’année 2020 a permis d’avancer sur de nombreux chantiers. Après une étap
 
 Dans la continuité de 2020, nous poursuivrons les développements techniques de la plateforme en 2021, notamment sur les questions relatives à son ergonomie, son accessibilité, différentes fonctionnalités permettant de mieux répondre aux besoins des utilisateurs, ainsi que tout ce qui facilite l’échanges de données avec les partenaires&nbsp;: module d’import de données, ouverture en écriture de l’API...
 
-Nous souhaitons également faire de 20221 une année très active dans le déploiement de notre service, en collectant massivement de la donnée pour couvrir de manière quasi exhaustive plusieurs territoires puis en affichant ces données, notamment aux travers de plateformes Web à forte audience avec lesquelles nous nouerons des partenariats.
+Nous souhaitons également faire de 2021 une année très active dans le déploiement de notre service, en collectant massivement de la donnée pour couvrir de manière quasi exhaustive plusieurs territoires puis en affichant ces données, notamment aux travers de plateformes Web à forte audience avec lesquelles nous nouerons des partenariats.
