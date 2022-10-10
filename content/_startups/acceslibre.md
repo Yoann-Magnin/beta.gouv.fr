@@ -1,10 +1,6 @@
 ---
-title: Acceslibre
 mission: Collecter et partager les données d'accessibilité des établissements publics
-sponsors:
-  - /organisations/mtes
 incubator: mtes
-link: https://acceslibre.beta.gouv.fr
 repository: https://github.com/MTES-MCT/acceslibre
 contact: julia.zucker@developpement-durable.gouv.fr
 accessibility_status: partiellement conforme
@@ -12,6 +8,10 @@ redirect_from:
   - /startups/access4all
 usertypes:
   - particulier
+title: Acceslibre
+sponsors:
+  - /organisations/mtes
+link: https://acceslibre.beta.gouv.fr
 stats: true
 dashlord_url: https://dashlord.incubateur.net/url/acceslibre-beta-gouv-fr/
 phases:
@@ -22,7 +22,6 @@ phases:
   - name: acceleration
     start: 2021-09-01
 ---
-
 ## Le problème&nbsp;: Le manque d’information sur l’accessibilité des lieux
 
 Quels sont vos critères pour choisir un restaurant&nbsp;? Recommandation, proximité, prix, type de cuisine… Vous avez de la chance parce que plus de 12 millions de Français soit 20% de la population ne se posent jamais ces questions. Il s’agit des personnes en situation de handicap. Elles, se demandent plutôt&nbsp;: Vais-je pouvoir repérer l’entrée&nbsp;? Vais-je pouvoir franchir la porte&nbsp;? Vais-je pouvoir stationner à proximité&nbsp;? Vais-je pouvoir comprendre les informations ou mon interlocuteur&nbsp;?
@@ -47,4 +46,4 @@ L’année 2020 a permis d’avancer sur de nombreux chantiers. Après une étap
 
 Dans la continuité de 2020, nous poursuivrons les développements techniques de la plateforme en 2021, notamment sur les questions relatives à son ergonomie, son accessibilité, différentes fonctionnalités permettant de mieux répondre aux besoins des utilisateurs, ainsi que tout ce qui facilite l’échanges de données avec les partenaires&nbsp;: module d’import de données, ouverture en écriture de l’API...
 
-Nous souhaitons également faire de 2021 une année très active dans le déploiement de notre service, en collectant massivement de la donnée pour couvrir de manière quasi exhaustive plusieurs territoires puis en affichant ces données, notamment aux travers de plateformes Web à forte audience avec lesquelles nous nouerons des partenariats.
+Nous souhaitons également faire de 20221 une année très active dans le déploiement de notre service, en collectant massivement de la donnée pour couvrir de manière quasi exhaustive plusieurs territoires puis en affichant ces données, notamment aux travers de plateformes Web à forte audience avec lesquelles nous nouerons des partenariats.
